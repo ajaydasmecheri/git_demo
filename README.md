@@ -1,5 +1,7 @@
 void main(){
     print("heello world");
     print("hey");
-    print("fuck);
+    print("how);
+    print("are");
+    print("you");
 }
