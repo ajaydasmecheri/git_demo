@@ -1,1 +1,3 @@
-# first project
+void main(){
+    print("heello world");
+}
