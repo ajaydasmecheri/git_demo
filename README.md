@@ -4,4 +4,5 @@ void main(){
     print("how);
     print("are");
     print("you");
+    print("ok");
 }
